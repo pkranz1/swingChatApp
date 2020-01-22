@@ -1,0 +1,74 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Server",
+      "request": "launch",
+      "mainClass": "Server",
+      "projectName": "finalProject 2_4da933ba"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Client",
+      "request": "launch",
+      "mainClass": "Client",
+      "projectName": "finalProject 2_4da933ba"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Server",
+      "request": "launch",
+      "mainClass": "Server",
+      "projectName": "finalProject"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Client",
+      "request": "launch",
+      "mainClass": "Client",
+      "projectName": "finalProject"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Client",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Client",
+      "projectName": "finalProject"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Server",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Server",
+      "projectName": "finalProject"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Client",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Client",
+      "projectName": "finalProject_542b1942"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Server",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Server",
+      "projectName": "finalProject_542b1942"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Client",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Client",
+      "projectName": "finalProject_d7cd4fd3"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Server",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Server",
+      "projectName": "finalProject_d7cd4fd3"
+    }
+  ]
+}

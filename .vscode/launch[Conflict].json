@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Server",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Server",
+      "projectName": "finalProject"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Client",
+      "request": "launch",
+      "mainClass": "com.kranz.chat.Client",
+      "projectName": "finalProject"
+    }
+  ]
+}
